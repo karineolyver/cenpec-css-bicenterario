@@ -10,21 +10,6 @@
   text-align: justify;
 }
 
-body::-webkit-scrollbar {
-  width: 12px;
-  height: 12px;
-}
-
-body::-webkit-scrollbar-track {
-  background: whitesmoke;
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: #b1b1b1;
-  border-radius: 20px;
-  border: 3px solid whitesmoke;
-}
-
 .background-header {
   background: linear-gradient(
     0deg,
